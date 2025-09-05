@@ -1,5 +1,5 @@
 ---
-{"dg-home":null,"dg-publish":true,"tags":["book"],"aliases":null,"permalink":"/01-projects/the-tale-of-two-best-friends/chapter-1-the-introduction/who-are-we/","dgPassFrontmatter":true}
+{"dg-home":null,"dg-publish":true,"tags":["Book"],"aliases":null,"permalink":"/01-projects/the-tale-of-two-best-friends/chapter-1-the-introduction/who-are-we/","dgPassFrontmatter":true}
 ---
 
 
