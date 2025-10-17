@@ -1,5 +1,5 @@
 ---
-{"dg-home":null,"dg-publish":true,"tags":["Book","real"],"aliases":null,"permalink":"/01-projects/the-tale-of-two-best-friends/the-tale-of-two-best-friends/","dgPassFrontmatter":true}
+{"dg-home":null,"dg-publish":true,"tags":["#Book","#real"],"aliases":null,"permalink":"/01-projects/the-tale-of-two-best-friends/the-tale-of-two-best-friends/","dgPassFrontmatter":true}
 ---
 
 Chapters:-
